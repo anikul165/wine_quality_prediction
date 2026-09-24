@@ -1,3 +1,7 @@
+Live on:
+
+https://wine-quality-prediction-3dx3.onrender.com/
+
 create env
 
 ```bash
