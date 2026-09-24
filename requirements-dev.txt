@@ -1,0 +1,11 @@
+-r requirements.txt
+
+pytest==7.4.4
+flake8==3.9.2
+tox==4.8.0
+
+dvc==2.10.2
+dvc[gdrive]==2.10.2
+fsspec==2022.11.0
+funcy==1.17
+importlib-metadata==4.13.0

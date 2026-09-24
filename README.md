@@ -15,7 +15,7 @@ created a req file
 install the req
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements-dev.txt
 ```
 
 download the data from
